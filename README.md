@@ -17,8 +17,8 @@
  <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
 
   <div >
-    Ready to build a website that has won an Awwwards Site of the Day?
-    This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
+    I build a website that has won an Awwwards Site of the Day?
+    I try to copy every single animation , interaction  using<b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
 
@@ -29,8 +29,6 @@
 3. ✨ [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🌐 [Community](#more)
 
 ## Introduction
 
@@ -44,7 +42,7 @@ Dive into creating a cutting-edge web experience designed for Awwwards recogniti
 
 ## Features
 
-In this course, You’ll learn how to:
+With this project, i learn how to:
 
 - ✨ Parallax Like a Pro
 - ⚡️ Master Clip-Path Magic
@@ -58,7 +56,7 @@ In this course, You’ll learn how to:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/FullStackEmpire/gsap-awwwards-website.git](https://github.com/FullStackEmpire/gsap-awwwards-website.git)
+git clone [https://github.com/Niktechh/Spylt-clone](https://github.com/Niktechh/Spylt-clone)
 
 # 2. Install dependencies
 npm install
